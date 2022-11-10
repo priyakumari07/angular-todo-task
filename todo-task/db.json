@@ -22,19 +22,19 @@
       "id": 4,
       "text": "DMart shapping",
       "day": "May 7th at 1:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
-      "text": "",
-      "day": "",
-      "reminder": false,
-      "id": 5
+      "text": "Aarav",
+      "day": "sep 14",
+      "reminder": true,
+      "id": 7
     },
     {
-      "text": "",
-      "day": "",
+      "text": "Test",
+      "day": "7 may",
       "reminder": false,
-      "id": 6
+      "id": 8
     }
   ]
 }
